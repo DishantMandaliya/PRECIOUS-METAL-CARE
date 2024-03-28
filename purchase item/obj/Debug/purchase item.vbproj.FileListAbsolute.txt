@@ -1,0 +1,154 @@
+F:\Assignment VB.Net\Console Assignment\purchase item\purchase item\bin\Debug\purchase item.exe.config
+F:\Assignment VB.Net\Console Assignment\purchase item\purchase item\bin\Debug\purchase item.exe
+F:\Assignment VB.Net\Console Assignment\purchase item\purchase item\bin\Debug\purchase item.pdb
+F:\Assignment VB.Net\Console Assignment\purchase item\purchase item\bin\Debug\purchase item.xml
+F:\Assignment VB.Net\Console Assignment\purchase item\purchase item\obj\Debug\purchase_item.Homepage.resources
+F:\Assignment VB.Net\Console Assignment\purchase item\purchase item\obj\Debug\purchase_item.purchase.resources
+F:\Assignment VB.Net\Console Assignment\purchase item\purchase item\obj\Debug\purchase_item.Resources.resources
+F:\Assignment VB.Net\Console Assignment\purchase item\purchase item\obj\Debug\purchase_item.sales.resources
+F:\Assignment VB.Net\Console Assignment\purchase item\purchase item\obj\Debug\purchase item.vbproj.GenerateResource.Cache
+F:\Assignment VB.Net\Console Assignment\purchase item\purchase item\obj\Debug\purchase item.exe
+F:\Assignment VB.Net\Console Assignment\purchase item\purchase item\obj\Debug\purchase item.xml
+F:\Assignment VB.Net\Console Assignment\purchase item\purchase item\obj\Debug\purchase item.pdb
+F:\Assignment VB.Net\Console Assignment\purchase item\purchase item\obj\Debug\purchase_item.Login.resources
+E:\dishant\purchase item\purchase item\purchase item\bin\Debug\purchase item.exe.config
+E:\dishant\purchase item\purchase item\purchase item\obj\Debug\purchase item.exe
+E:\dishant\purchase item\purchase item\purchase item\obj\Debug\purchase item.xml
+E:\dishant\purchase item\purchase item\purchase item\obj\Debug\purchase item.pdb
+E:\dishant\purchase item\purchase item\purchase item\bin\Debug\purchase item.exe
+E:\dishant\purchase item\purchase item\purchase item\bin\Debug\purchase item.pdb
+E:\dishant\purchase item\purchase item\purchase item\bin\Debug\purchase item.xml
+E:\dishant\purchase item\purchase item\purchase item\obj\Debug\purchase item.vbprojResolveAssemblyReference.cache
+E:\dishant\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Homepage.resources
+E:\dishant\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Login.resources
+E:\dishant\purchase item\purchase item\purchase item\obj\Debug\purchase_item.purchase.resources
+E:\dishant\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Resources.resources
+E:\dishant\purchase item\purchase item\purchase item\obj\Debug\purchase_item.sales.resources
+E:\dishant\purchase item\purchase item\purchase item\obj\Debug\purchase item.vbproj.GenerateResource.Cache
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\bin\Debug\purchase item.exe.config
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase item.exe
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase item.xml
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase item.pdb
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\bin\Debug\purchase item.exe
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\bin\Debug\purchase item.pdb
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\bin\Debug\purchase item.xml
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase item.vbprojResolveAssemblyReference.cache
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Homepage.resources
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Login.resources
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase_item.purchase.resources
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Resources.resources
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase_item.sales.resources
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase item.vbproj.GenerateResource.Cache
+E:\dishant\purchase item\purchase item\purchase item\obj\Debug\purchase_item.stock_details.resources
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase_item.stock_details.resources
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Billings.resources
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase_item.order_Book.resources
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.exe.config
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.exe
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.xml
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.pdb
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.exe
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.pdb
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.xml
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.vbprojResolveAssemblyReference.cache
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Billings.resources
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Homepage.resources
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Login.resources
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.order_Book.resources
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.purchase.resources
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Resources.resources
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.sales.resources
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.stock_details.resources
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.vbproj.GenerateResource.Cache
+E:\dishant\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Descripton.resources
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.exe.config
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.exe
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.xml
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.pdb
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.exe
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.pdb
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.xml
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.vbprojResolveAssemblyReference.cache
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Billings.resources
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Descripton.resources
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Homepage.resources
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Login.resources
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.order_Book.resources
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.purchase.resources
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Resources.resources
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.sales.resources
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.stock_details.resources
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.vbproj.GenerateResource.Cache
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.search.resources
+F:\PGDCA Project Files\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.search1.resources
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.exe.config
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.exe
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.xml
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.pdb
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.exe
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.pdb
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.xml
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.vbprojResolveAssemblyReference.cache
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Billings.resources
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Descripton.resources
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Homepage.resources
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Login.resources
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.order_Book.resources
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.purchase.resources
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Resources.resources
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.sales.resources
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.search.resources
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.search1.resources
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.stock_details.resources
+E:\dishant\purchase item (1)\purchase item (1) (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.vbproj.GenerateResource.Cache
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Descripton.resources
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase_item.search.resources
+F:\PGDCA Project Files\purchase item\purchase item\purchase item\obj\Debug\purchase_item.search1.resources
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.exe.config
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.exe
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.xml
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.pdb
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.exe
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.pdb
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.xml
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.vbprojResolveAssemblyReference.cache
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Billings.resources
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Descripton.resources
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Homepage.resources
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Login.resources
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.order_Book.resources
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.purchase.resources
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Resources.resources
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.sales.resources
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.search.resources
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.search1.resources
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.stock_details.resources
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.vbproj.GenerateResource.Cache
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Additionalcharges.resources
+E:\dishant\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.customer.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.exe.config
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.exe
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.xml
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.pdb
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.exe
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.pdb
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\bin\Debug\purchase item.xml
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.vbprojResolveAssemblyReference.cache
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Additionalcharges.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Billings.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.customer.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Descripton.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Homepage.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Login.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.order_Book.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.purchase.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.Resources.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.sales.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.search.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.search1.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.stock_details.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase item.vbproj.GenerateResource.Cache
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.supplier.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.calculater.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.payment.resources
+F:\PGDCA Project Files\purchase item (1) (3)\purchase item (1)\purchase item\purchase item\purchase item\obj\Debug\purchase_item.view_order.resources
